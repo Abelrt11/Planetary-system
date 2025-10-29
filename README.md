@@ -86,5 +86,8 @@ En cada frame:
 
 En resumen: es una mini "demo espacial" interactiva donde puedes observar un sistema solar y pilotar una nave dentro de él.
 
+Video de demostración: https://youtu.be/pGywNdpJDZ8
+
+
 (Codigo de acceso para el codigo en codesandbox: https://codesandbox.io/p/sandbox/tarea-6-estrella-y-planetas-con-click-9l95wk)
 
