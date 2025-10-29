@@ -1,4 +1,4 @@
-# Mini Sistema Solar Interactivo en Three.js
+# Sistema Solar Interactivo.
 
 Este proyecto es una escena 3D hecha con Three.js que simula:
 
@@ -8,7 +8,7 @@ Este proyecto es una escena 3D hecha con Three.js que simula:
 * Un fondo espacial esférico con textura para simular el espacio.
 * Una nave pilotable en tercera persona.
 
----
+////////////////////
 
 ## Contenido de la escena
 
@@ -34,7 +34,7 @@ Las lunas también están texturizadas y se mueve con su propia órbita independ
 
 La escena completa está dentro de una esfera muy grande que tiene una textura de estrellas. Esa esfera se renderiza "al revés", desde dentro, para que parezca que estás volando en el espacio.
 
----
+////////////////////
 
 ## La nave
 
@@ -49,7 +49,7 @@ La nave:
 
 También existe una cámara de persecución (tercera persona) que sigue a la nave.
 
----
+////////////////////
 
 ## Modos de cámara
 
@@ -64,7 +64,7 @@ Hay dos modos de vista:
 
 Puedes alternar entre estas dos vistas en cualquier momento.
 
----
+////////////////////
 
 ## Controles de la nave
 
@@ -79,7 +79,7 @@ Cuando la nave está en la escena:
 
 La inclinación del morro también influye en la orientación global de la nave, así que afecta hacia dónde avanza y hacia dónde mira la cámara de persecución.
 
----
+////////////////////
 
 ## Animación
 
@@ -91,18 +91,7 @@ En cada frame:
 * La nave se mueve según las teclas pulsadas en ese momento.
 * La cámara activa (vista sistema o vista nave) se actualiza y se usa para renderizar.
 
----
-
-## Objetivo didáctico
-
-Esta práctica te da una experiencia completa con:
-
-* Uso básico de Three.js (escena, cámara, luz, render).
-* Texturizado sobre geometría estándar (esferas).
-* Carga de modelos 3D externos con materiales.
-* Animación propia (rotación) y animación orbital basada en tiempo.
-* Control de input de usuario para mover un objeto en el mundo.
-* Cámaras múltiples y cambio de vista en tiempo real.
+////////////////////
 
 En resumen: es una mini "demo espacial" interactiva donde puedes observar un sistema solar y pilotar una nave dentro de él.
 
