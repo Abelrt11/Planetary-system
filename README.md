@@ -59,10 +59,10 @@ Hay dos modos de vista:
 
 Puedes alternar entre estas dos vistas en cualquier momento.
 
-## Controles de la escena
+## Controles de la vista de sistema
 * `click izquierdo` → cambiar el angulo del punto de vista.
 * `click derecho` → cambiar la localización del punto de vista.
-
+  (En ambos modos deberá arrastrar el ratón mientras hace click)
 ## Controles de la nave
 
 Cuando la nave está en la escena:
