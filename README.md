@@ -70,21 +70,14 @@ Cuando la nave está en la escena:
 * `Q` → Girar a la izquierda.
 * `E` → Girar a la derecha.
 
-La inclinación del morro también influye en la orientación global de la nave, así que afecta hacia dónde avanza y hacia dónde mira la cámara de persecución.
-
 
 ## Animación
-
-En cada frame:
 
 * Los planetas se recolocan en su órbita en función del tiempo simulado.
 * Las lunas se recolocan alrededor de su planeta.
 * Los planetas y lunas rotan sobre su propio eje para dar más realismo.
 * La nave se mueve según las teclas pulsadas en ese momento.
 * La cámara activa (vista sistema o vista nave) se actualiza y se usa para renderizar.
-
-
-En resumen: es una mini "demo espacial" interactiva donde puedes observar un sistema solar y pilotar una nave dentro de él.
 
 Video de demostración: https://youtu.be/pGywNdpJDZ8
 
