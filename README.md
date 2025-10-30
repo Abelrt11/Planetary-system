@@ -59,6 +59,10 @@ Hay dos modos de vista:
 
 Puedes alternar entre estas dos vistas en cualquier momento.
 
+## Controles de la escena
+* `click izquierdo` → cambiar el angulo del punto de vista.
+* `click derecho` → cambiar la localización del punto de vista.
+
 ## Controles de la nave
 
 Cuando la nave está en la escena:
@@ -70,13 +74,7 @@ Cuando la nave está en la escena:
 * `Q` → Girar a la izquierda.
 * `E` → Girar a la derecha.
 
-## Controles de la escena
-* `click izquierdo` → cambiar el angulo del punto de vista.
-* `click derecho` → cambiar la localización del punto de vista.
 
-
-* `1` → modo vision de "cielo".
-* `2` → modo vista de nave.
 
 ## Animación
 
