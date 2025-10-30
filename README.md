@@ -65,10 +65,10 @@ Cuando la nave está en la escena:
 
 * `W` → Acelerar hacia adelante.
 * `S` → Ir hacia atrás (marcha atrás).
-* `A` → Girar el rumbo hacia la izquierda (la nave rota en horizontal).
-* `D` → Girar el rumbo hacia la derecha.
-* `Q` → Inclinar el morro/alas hacia la izquierda.
-* `E` → Inclinar el morro/alas hacia la derecha.
+* `A` → Rotar la nave a la izquierda.
+* `D` → Rotar la nave hacia la derecha.
+* `Q` → Girar a la izquierda.
+* `E` → Girar a la derecha.
 
 La inclinación del morro también influye en la orientación global de la nave, así que afecta hacia dónde avanza y hacia dónde mira la cámara de persecución.
 
